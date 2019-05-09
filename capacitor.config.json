@@ -1,0 +1,7 @@
+{
+  "appId": "com.npxdemo.app",
+  "appName": "npx demo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
